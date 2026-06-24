@@ -1,0 +1,6 @@
+{
+  "name": "junior firki controller",
+  "description": "A 4WD companion robot controller with live camera HUD, virtual joystick, voice tracking, and Gemini AI integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
